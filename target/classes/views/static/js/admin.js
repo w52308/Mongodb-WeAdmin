@@ -9,7 +9,7 @@
  * +----------------------------------------------------------------------
  */
 
-var baseURl="http://localhost:8080";
+var baseURl="";
 
 //将url变成json数据
 function urlToJSON() {
